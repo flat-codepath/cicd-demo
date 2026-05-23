@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("Hello from GitHub Actions CI/CD")  
+    return HttpResponse("Hello from GitHub Actions CI/CD")
